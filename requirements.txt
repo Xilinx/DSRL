@@ -1,0 +1,4 @@
+pip
+torch
+torchvision>=0.3.0
+PIL
