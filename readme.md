@@ -23,9 +23,9 @@ sh run_eval_256x512.sh
 
 | Method | s | Image Size | FLOPs | Params | mIOU (class-wise) | Link |
 |---|---|---|---|---|---|---|
-| ESPNetv2 | 2. 0 | 512x256 | 674.78M | 0.79M | 54.83% (val) | N/A |
+| ESPNetv2 | 2.0 | 512x256 | 674.78M | 0.79M | 54.83% (val) | N/A |
 | ESPNetv2 + DSRL | 2.0 | 512x256 | 674.78M | 0.79M | 60.61% (val)  | [here](ckpt-segmentation/espnetv2_dsrl/256x512/espnetv2_2.0_1024_best.pth) |
-| ESPNetv2 | 2. 0 | 1024x512 | 2.7G | 0.79M | 64.44 (val) | N/A |
+| ESPNetv2 | 2.0 | 1024x512 | 2.7G | 0.79M | 64.44 (val) | N/A |
 | ESPNetv2 + DSRL | 2.0 | 1024x512 | 2.7G | 0.79M | 66.50% (val) | [here](ckpt-segmentation/espnetv2_dsrl/256x512/espnetv2_2.0_2048_best.pth) |
 
 
