@@ -6,7 +6,7 @@ The code is inspired by [EdgeNet in pytorch](https://github.com/sacmehta/EdgeNet
 
 ```
 # Before evaluate ESPNetv2_DSRL, unzip the weight folder
-
+unzip ckpt-segmentation.zip
 ```
 # Testing
 
