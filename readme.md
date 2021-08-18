@@ -1,8 +1,13 @@
 # DSRL: Dual Super-Resolution Learning for Semantic Segmentation
 
-The Code is modified from [EdgeNet in pytorch](https://github.com/sacmehta/EdgeNets), you can follow the procedure in it to prepare the datasets and model directory files.
+The code is inspired by [EdgeNet in pytorch](https://github.com/sacmehta/EdgeNets), you can follow the procedure in it to prepare the datasets and model directory files.
 
+# Unzip the weight folder
 
+```
+# Before evaluate ESPNetv2_DSRL, unzip the weight folder
+
+```
 # Testing
 
   * The first step aims to save the gray prediction mask
