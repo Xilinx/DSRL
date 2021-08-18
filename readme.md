@@ -2,11 +2,12 @@
 
 The code is inspired by [EdgeNet in pytorch](https://github.com/sacmehta/EdgeNets), you can follow the procedure in it to prepare the datasets and model directory files.
 
-# Unzip the weight folder
+# Unzip the repo folder
 
 ```
-# Before evaluate ESPNetv2_DSRL, unzip the weight folder
-unzip ckpt-segmentation.zip
+# first download and unzip the repo folder
+unzip dsrl_released-master.zip
+cd dsrl_released-master
 ```
 # Testing
 
